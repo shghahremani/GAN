@@ -1,6 +1,6 @@
-In this repository we have developed two models as following:
-1- We used generative adversarial networks (GANs) to do anomaly detection for time series data. 
-2- We also developed attention based LSTM to identify time delay attack attributes.
+In this repository we have developed two models as following:  
+1- We used generative adversarial networks (GANs) to do anomaly detection for time series data.   
+2- We also developed attention based LSTM to identify time delay attack attributes.  
 
 # Data
 
