@@ -27,7 +27,9 @@ Training and testing the model are done with data which is labelled with time de
 #Training dataset:
 Each record of the dataset implies the system sensors value with various settings for 400 seconds which contains the following columns:
 Randomload : This column contains the natural noise for each experiment. This column has nothing to do with the training and it should be ignored while training the model. Each record(each experiment contain) is simulated with this natural noise.
+
 ACE_1 : area 1 control error (ACE)
+
 ACE_2 : area 2 control error (ACE)
 ACE_3 : area 3 control error (ACE)
 DemandArea_1: power demand of area 1
