@@ -16,7 +16,7 @@ Testing GAN model:
 Dataset for testing the trained GAN network contains both the normal and anomaly ones. Anomaly data means that data is collected when the system attacked by time delay attack at different point and various length. Here, data is labelled with normal(0) and anomaly(1).
 
 # DataSet for time delay attack identification (attention based GRU/LSTM)
- You can download the Dataset for training <a href="https://drive.google.com/open?id=1R9oDjmwUL5A_mfs7Z6-PBlKrlhqB7zIN">here</a> and for the testing  <a href="https://drive.google.com/open?id=1ssG18uFcQRMb4-3t2xDoVRpL2_SBQ9ob">here</a>
+ You can download the Dataset for training <a href="https://drive.google.com/open?id=1R9oDjmwUL5A_mfs7Z6-PBlKrlhqB7zIN">here</a> and for the testing  <a href="https://drive.google.com/open?id=1ssG18uFcQRMb4-3t2xDoVRpL2_SBQ9ob">here</a>  
 Training and testing the model:  
 Training and testing the model are done with data which is labelled with time delay magnitude and also attack lunch point. You may find these   
 
